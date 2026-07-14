@@ -52,8 +52,8 @@ Making a reports heatmap in Ekam Finance feel as satisfying to click through as 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sbktckp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbktckp&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=sbktckp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sbktckp&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbktckp&theme=tokyonight&hide_border=true" />
 
