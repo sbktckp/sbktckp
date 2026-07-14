@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-stack+dev%2C+mostly+by+accident;Arguing+for+fun+%E2%80%94+APD+debater;Building+Ekam+Finance%2C+one+merge+conflict+at+a+time;Still+confusing+npm+start+and+npm+run+dev" alt="typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Full-stack+dev%2C+mostly+by+accident;Arguing+for+fun+%E2%80%94+APD+debater;Building+Ekam+Finance%2C+one+merge+conflict+at+a+time;Still+confusing+npm+start+and+npm+run+dev" alt="typing animation" />
 
 </div>
 
-<h1 align="center">Smit Patil</h1>
+<h1 align="center">Smit Bharat Patil</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/sbktckp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
