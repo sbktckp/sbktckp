@@ -57,13 +57,11 @@ Making a reports heatmap in Ekam Finance feel as satisfying to click through as 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbktckp&theme=tokyonight&hide_border=true" />
 
-</div>
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbktckp/sbktckp/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbktckp/sbktckp/output/github-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/sbktckp/sbktckp/output/github-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/sbktckp/sbktckp/output/github-snake.svg" alt="contribution snake" />
+
+</div>
 
 ---
 
