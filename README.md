@@ -1,79 +1,70 @@
-<h1 align="center">Hey, I'm Smit 👋</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer · Building fast, production-grade web products</h3>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-stack+dev%2C+mostly+by+accident;Arguing+for+fun+%E2%80%94+APD+debater;Building+Ekam+Finance%2C+one+merge+conflict+at+a+time;Still+confusing+npm+start+and+npm+run+dev" alt="typing animation" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/sbktckp/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hello@sbktckp.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
+
+<h1 align="center">Smit Patil</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sbktckp&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <a href="https://linkedin.com/in/sbktckp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:patilsmit2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sbktckp&style=flat-square&color=6C63FF" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
+I write code for a living, argue for fun, and occasionally confuse `npm start` with `npm run dev` at 1 AM - send help.
 
-- 💻 Interning as a **Full-Stack Developer at Horizontal**, mentored by **Pakshal Tated**
-- 🏢 Simultaneously running my **own dev agency**, shipping production sites & apps for clients
-- 🎯 Currently deep in **Ekam Finance** — an INR-first personal finance app for Indian users
-- 🌱 Sharpening skills in **Next.js 15, Supabase, and motion-driven frontend engineering**
-- 🎙️ Competitive **Asian Parliamentary Debate (APD)** speaker — I like arguments as much as I like `git rebase`
-- 📚 When I'm not coding: Hindi literature, football, and the occasional UPSC cutoff tracking spreadsheet
+By day I'm interning as a full-stack dev at **Horizontal**, learning the ropes under **Pakshal Tated**. Outside of that, I run a small dev agency of my own - mostly motion-heavy marketing sites clients actually want to show off.
 
----
+Most of my spare cycles right now go into **Ekam Finance**, a personal finance app built for how people in India actually track money - inter-account transfers, a reports calendar you can click into, budgets that don't assume you get paid the same amount every month.
 
-### 🛠️ Tech Stack
+Off the keyboard: I debate competitively (Asian Parliamentary format - the fight is the fun part), read more Hindi literature than I'm ever caught up on, and yes, I track UPSC Prelims cutoffs for sport. No, I'm not appearing for it. It's a hobby now.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<details>
+<summary>what I am stuck on this week</summary>
+<br>
+
+Making a reports heatmap in Ekam Finance feel as satisfying to click through as it was to build. Turns out "looks good" and "feels good" are two very different bugs to fix.
+
+</details>
 
 ---
 
-### 📊 GitHub Stats
+### shipping
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sbktckp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbktckp&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbktckp&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbktckp&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🔭 What I'm Building
-
-| Project | Description | Stack |
+| project | what it actually is | stack |
 |---|---|---|
-| **Ekam Finance** | All-in-one personal finance app for Indian users — budgets, bills, goals, investments, reports | Next.js 15 · Supabase · TypeScript |
-| **Clipency** | Performance-based UGC creator/clipper campaign marketplace | Next.js · Supabase · Vercel |
-| **Agency Work** | Awwwards-standard marketing sites for clients — motion-first, pixel-precise | Next.js · GSAP · Framer Motion · Lenis |
+| **[Ekam Finance](https://ekam-finance.vercel.app)** | personal finance, built INR-first - not a US budgeting app with a rupee symbol bolted on | Next.js 15, Supabase, TypeScript |
+| **Clipency** | a marketplace where creators get paid per clip, not per vibe | Next.js, Supabase, Vercel |
+| **Agency work** | client sites where the brief is usually make it feel alive | Next.js, GSAP, Framer Motion, Lenis |
 
 ---
 
-<p align="center"><i>Always down to talk shop about product, debate, or why the Supabase RLS policy failed silently again.</i></p>
+### tools I reach for
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,supabase,postgres,nodejs,vercel,tailwind,git&theme=dark" />
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sbktckp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbktckp&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sbktckp&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbktckp/sbktckp/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbktckp/sbktckp/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sbktckp/sbktckp/output/github-snake.svg">
+</picture>
+
+---
+
+<p align="center"><i>Open to talking product, debate, or why your Supabase RLS policy is silently failing. It is usually the policy, not you.</i></p>
