@@ -27,8 +27,6 @@ At Clipency that means owning the actual system - the creator marketplace, the f
 
 Somewhere in the cracks, **Ekam Finance** is still my longest-running side project (and my longest-running `npm start` vs `npm run dev` incident report), and I'm currently deep in rebuilding NexElite's own site and shipping the web build for **Narva** (narva.in).
 
-Off the keyboard: competitive debate (Asian Parliamentary format - the fight is the fun part), more Hindi literature than I'm ever caught up on, and a genuinely unnecessary habit of tracking UPSC Prelims cutoffs. I'm not appearing for it. It's a hobby now.
-
 <br>
 
 > **REF. 02 · ACCOUNT SUMMARY**
@@ -77,7 +75,23 @@ flowchart LR
 
 <br>
 
-> **REF. 06 · AUDIT TRAIL**
+> **REF. 06 · CROSS-EXAMINATION**
+
+**A fintech CTO who also builds brand sites for a media agency - pick a lane.**
+The lane is systems that have to hold up under pressure. Money and brand promises fail the same way: quietly, then all at once.
+
+**You track UPSC cutoffs but you're not appearing for the exam.**
+Same reason people watch chess they'll never play at that level. The mechanism is the interesting part, not the outcome.
+
+**Debate and writing code have nothing to do with each other.**
+Same skill, different targets - construct a claim, stress-test it under hostile questions, ship the version that survives.
+
+**Do you ever actually sleep?**
+See: DEBIT column, above.
+
+<br>
+
+> **REF. 07 · AUDIT TRAIL**
 
 <div align="center">
 
