@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sbktckp/sbktckp/main/assets/ledger-hero.svg" alt="general ledger" width="100%" />
-
-<h1>Smit Bharat Patil</h1>
+<h1>✈ SMIT BHARAT PATIL</h1>
+<p><i>flight log — what's currently airborne</i></p>
 
 <p>
   <img src="https://img.shields.io/badge/CTO-Clipency-3ECF8E?style=for-the-badge" />
@@ -19,39 +18,39 @@
 
 <br>
 
-> **REF. 01 · OPENING NOTE**
+> **TOWER LOG — CURRENT POSITION**
 
-My internship at Horizontal closed out. What's posted since: I'm **CTO at Clipency**, and a **web developer at NexElite**, a creative media agency.
+Horizontal's on the books, closed and logged. Current heading: **CTO at Clipency**, **web developer at NexElite**, a creative media agency.
 
-At Clipency that means owning the actual system - the creator marketplace, the finance tracker behind it, the parts that quietly cannot break while someone's waiting on a payout. At NexElite it means building brand-first sites for clients, the kind where the hover state was never optional.
+At Clipency that's the actual system — a creator marketplace and the finance tracker running under it, both needing to survive the exact moment someone's waiting on a payout. At NexElite it's brand-first sites, the kind where the hover state was never a nice-to-have.
 
-Somewhere in the cracks, **Ekam Finance** is still my longest-running side project (and my longest-running `npm start` vs `npm run dev` incident report), and I'm currently deep in rebuilding NexElite's own site and shipping the web build for **Narva** (narva.in).
+**Ekam Finance** stays in a holding pattern as the longest-running personal project (and the longest-running incident report between `npm start` and `npm run dev`). Currently cleared for two more approaches: rebuilding NexElite's own site, and the web build for **Narva** (narva.in).
 
 <br>
 
-> **REF. 02 · ACCOUNT SUMMARY**
+> **ACTIVE FLIGHTS**
 
-| entry | role | status |
+| callsign | role | status |
 |---|---|---|
-| **Clipency** | Chief Technology Officer | `ACTIVE` |
-| **NexElite** | Web Developer | `ACTIVE` |
-| **Horizontal** | Full-Stack Intern | `CLOSED` |
+| **Clipency** | Chief Technology Officer | `IN THE AIR` |
+| **NexElite** | Web Developer | `IN THE AIR` |
+| **Horizontal** | Full-Stack Intern | `LANDED` |
 
 <br>
 
-> **REF. 03 · TRANSACTION LOG**
+> **FLIGHT PLANS**
 
 | project | what it actually is | stack | status |
 |---|---|---|---|
-| **[Clipency](https://clipency.in)** | the creator marketplace I run engineering for - paid per clip, not per vibe | Next.js, Supabase, Vercel | `ACTIVE` |
-| **[Clipency Finance](https://finance.clipency.in)** | the internal tracker keeping Clipency's own books honest | Next.js, Supabase | `ACTIVE` |
-| **[Ekam Finance](https://ekam-finance.vercel.app)** | personal finance, built INR-first - not a US budgeting app with a rupee symbol bolted on | Next.js 15, Supabase, TypeScript | `ONGOING` |
-| **[Narva](https://narva.in)** | brand + web build for a health-forward company | Next.js, GSAP | `IN PROGRESS` |
-| **NexElite** | the agency's own site - built by the person who builds everyone else's | Next.js, GSAP, Framer Motion, Lenis | `IN PROGRESS` |
+| **[Clipency](https://clipency.in)** | creator marketplace — paid per clip delivered, not per vibe | Next.js, Supabase, Vercel | `CRUISING` |
+| **[Clipency Finance](https://finance.clipency.in)** | the instrument panel keeping Clipency's own books honest | Next.js, Supabase | `CRUISING` |
+| **[Ekam Finance](https://ekam-finance.vercel.app)** | personal finance, built INR-first — not a US app with a rupee symbol taped on | Next.js 15, Supabase, TypeScript | `HOLDING PATTERN` |
+| **[Narva](https://narva.in)** | brand + web build for a health-forward company | Next.js, GSAP | `APPROACH` |
+| **NexElite** | the agency's own site — built by the one who builds everyone else's | Next.js, GSAP, Framer Motion, Lenis | `APPROACH` |
 
 <br>
 
-> **REF. 04 · ASSETS ON HAND**
+> **INSTRUMENTS**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,supabase,postgres,nodejs,vercel,tailwind,git&theme=dark" />
@@ -59,39 +58,39 @@ Somewhere in the cracks, **Ekam Finance** is still my longest-running side proje
 
 <br>
 
-> **REF. 05 · HOW A LINE ITEM GETS POSTED**
+> **STANDARD APPROACH PATTERN**
 
 ```mermaid
 flowchart LR
-    A[Idea] --> B{Survives\ncross-examination?}
-    B -- No --> A
-    B -- Yes --> C[Write it]
+    A[Idea requests\nclearance] --> B{Survives\ncross-examination?}
+    B -- Denied --> A
+    B -- Cleared --> C[Write it]
     C --> D{npm start or\nnpm run dev?}
-    D -- Guessed wrong --> C
-    D -- Guessed right --> E[Ship it]
-    E --> F[Supabase RLS silently\nrejects everything]
+    D -- Wrong call --> C
+    D -- Correct call --> E[Cleared to ship]
+    E --> F[Supabase RLS\nrejects everything\nsilently]
     F --> C
 ```
 
 <br>
 
-> **REF. 06 · CROSS-EXAMINATION**
+> **RADIO CHECK**
 
-**A fintech CTO who also builds brand sites for a media agency - pick a lane.**
-The lane is systems that have to hold up under pressure. Money and brand promises fail the same way: quietly, then all at once.
+**A fintech CTO who also builds brand sites for a media agency — pick one runway.**
+Same runway, different tail numbers. Money and brand promises fail identically: quietly, then all at once. Building for both means catching the quiet part.
 
-**You track UPSC cutoffs but you're not appearing for the exam.**
-Same reason people watch chess they'll never play at that level. The mechanism is the interesting part, not the outcome.
+**You track UPSC cutoffs without appearing for the exam.**
+Same reason people watch air traffic without holding a license. The system is the interesting part, not the seat.
 
-**Debate and writing code have nothing to do with each other.**
-Same skill, different targets - construct a claim, stress-test it under hostile questions, ship the version that survives.
+**Debate and writing code have nothing in common.**
+Same maneuver, different airspace — construct a claim, put it through hostile questioning, ship only what survives the approach.
 
-**Do you ever actually sleep?**
-See: DEBIT column, above.
+**Do you ever land?**
+Working on it. Check the `IN THE AIR` column above.
 
 <br>
 
-> **REF. 07 · AUDIT TRAIL**
+> **BLACK BOX**
 
 <div align="center">
 
@@ -100,14 +99,10 @@ See: DEBIT column, above.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbktckp&theme=tokyonight&hide_border=true" />
 
-<br>
-
-<img src="https://raw.githubusercontent.com/sbktckp/sbktckp/output/github-snake-dark.svg" alt="contribution snake" />
-
 </div>
 
 ---
 
-<p align="center"><b>CLOSING BALANCE</b><br><i>Open to talking product, debate, or why your Supabase RLS policy is silently failing. It is usually the policy, not you.</i></p>
+<p align="center"><b>CLEARED FOR CONTACT</b><br><i>Open to talking product, debate, or why your Supabase RLS policy is silently rejecting everything. It is usually the policy, not you.</i></p>
 
 <p align="right"><i>&mdash; S.B.P.</i></p>
