@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>✈ SMIT BHARAT PATIL</h1>
-<p><i>flight log — what's currently airborne</i></p>
+<p><i>flight log, what's currently airborne</i></p>
 
 <p>
   <img src="https://img.shields.io/badge/CTO-Clipency-3ECF8E?style=for-the-badge" />
@@ -18,13 +18,13 @@
 
 <br>
 
-> **TOWER LOG — CURRENT POSITION**
+> **TOWER LOG, CURRENT POSITION**
 
-Horizontal's on the books, closed and logged. Current heading: **CTO at Clipency**, **web developer at NexElite**, a creative media agency.
+Horizontal wrapped up a while back. Right now I'm CTO at Clipency and a web developer at NexElite, a creative media agency.
 
-At Clipency that's the actual system — a creator marketplace and the finance tracker running under it, both needing to survive the exact moment someone's waiting on a payout. At NexElite it's brand-first sites, the kind where the hover state was never a nice-to-have.
+Clipency means owning the actual system: a creator marketplace plus the finance tracker running underneath it, both of which need to hold up at the exact moment someone's waiting on a payout. NexElite means brand-first sites, the kind where nobody skipped the hover state.
 
-**Ekam Finance** stays in a holding pattern as the longest-running personal project (and the longest-running incident report between `npm start` and `npm run dev`). Currently cleared for two more approaches: rebuilding NexElite's own site, and the web build for **Narva** (narva.in).
+Ekam Finance is still my longest-running personal project, and honestly the longest-running fight I've had with `npm start` vs `npm run dev`. Right now I'm also rebuilding NexElite's own site and shipping the web build for Narva (narva.in).
 
 <br>
 
@@ -42,11 +42,11 @@ At Clipency that's the actual system — a creator marketplace and the finance t
 
 | project | what it actually is | stack | status |
 |---|---|---|---|
-| **[Clipency](https://clipency.in)** | creator marketplace — paid per clip delivered, not per vibe | Next.js, Supabase, Vercel | `CRUISING` |
+| **[Clipency](https://clipency.in)** | creator marketplace, paid per clip delivered, not per vibe | Next.js, Supabase, Vercel | `CRUISING` |
 | **[Clipency Finance](https://finance.clipency.in)** | the instrument panel keeping Clipency's own books honest | Next.js, Supabase | `CRUISING` |
-| **[Ekam Finance](https://ekam-finance.vercel.app)** | personal finance, built INR-first — not a US app with a rupee symbol taped on | Next.js 15, Supabase, TypeScript | `HOLDING PATTERN` |
-| **[Narva](https://narva.in)** | brand + web build for a health-forward company | Next.js, GSAP | `APPROACH` |
-| **NexElite** | the agency's own site — built by the one who builds everyone else's | Next.js, GSAP, Framer Motion, Lenis | `APPROACH` |
+| **[Ekam Finance](https://ekam-finance.vercel.app)** | personal finance, built INR first, not a US app with a rupee symbol taped on | Next.js 15, Supabase, TypeScript | `HOLDING PATTERN` |
+| **[Narva](https://narva.in)** | brand and web build for a health-forward company | Next.js, GSAP | `APPROACH` |
+| **NexElite** | the agency's own site, built by the guy who builds everyone else's | Next.js, GSAP, Framer Motion, Lenis | `APPROACH` |
 
 <br>
 
@@ -76,14 +76,14 @@ flowchart LR
 
 > **RADIO CHECK**
 
-**A fintech CTO who also builds brand sites for a media agency — pick one runway.**
-Same runway, different tail numbers. Money and brand promises fail identically: quietly, then all at once. Building for both means catching the quiet part.
+**A fintech CTO who also builds brand sites for a media agency, pick one runway.**
+It's the same runway with different tail numbers. Money and brand promises fail the same way, quietly at first, then all at once. Working across both just means I catch the quiet part earlier.
 
 **You track UPSC cutoffs without appearing for the exam.**
-Same reason people watch air traffic without holding a license. The system is the interesting part, not the seat.
+Same reason people watch air traffic without holding a license. I find the system more interesting than the seat.
 
 **Debate and writing code have nothing in common.**
-Same maneuver, different airspace — construct a claim, put it through hostile questioning, ship only what survives the approach.
+They're closer than they look. Build a claim, put it through hostile questioning, ship only what survives that.
 
 **Do you ever land?**
 Working on it. Check the `IN THE AIR` column above.
@@ -99,10 +99,14 @@ Working on it. Check the `IN THE AIR` column above.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbktckp&theme=tokyonight&hide_border=true" />
 
+<br>
+
+<img src="https://raw.githubusercontent.com/sbktckp/sbktckp/output/github-snake-dark.svg" alt="contribution snake" />
+
 </div>
 
 ---
 
-<p align="center"><b>CLEARED FOR CONTACT</b><br><i>Open to talking product, debate, or why your Supabase RLS policy is silently rejecting everything. It is usually the policy, not you.</i></p>
+<p align="center"><b>CLEARED FOR CONTACT</b><br><i>Open to talking product, debate, or why your Supabase RLS policy is silently rejecting everything. It's usually the policy, not you.</i></p>
 
 <p align="right"><i>&mdash; S.B.P.</i></p>
