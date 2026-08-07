@@ -42,8 +42,6 @@ Ekam Finance is still my longest-running personal project, and honestly the long
 
 | project | what it actually is | stack | status |
 |---|---|---|---|
-| **[Clipency](https://clipency.in)** | creator marketplace, paid per clip delivered, not per vibe | Next.js, Supabase, Vercel | `CRUISING` |
-| **[Clipency Finance](https://finance.clipency.in)** | the instrument panel keeping Clipency's own books honest | Next.js, Supabase | `CRUISING` |
 | **[Ekam Finance](https://ekam-finance.vercel.app)** | personal finance, built INR first, not a US app with a rupee symbol taped on | Next.js 15, Supabase, TypeScript | `HOLDING PATTERN` |
 | **[Narva](https://narva.in)** | brand and web build for a health-forward company | Next.js, GSAP | `APPROACH` |
 | **NexElite** | the agency's own site, built by the guy who builds everyone else's | Next.js, GSAP, Framer Motion, Lenis | `APPROACH` |
