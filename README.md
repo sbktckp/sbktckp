@@ -22,7 +22,7 @@
 
 Horizontal wrapped up a while back. Right now I'm CTO at Clipency and a web developer at NexElite, a creative media agency.
 
-Clipency means owning the actual system: a creator marketplace plus the finance tracker running underneath it, both of which need to hold up at the exact moment someone's waiting on a payout. It's off the air at the moment, between builds. NexElite means brand-first sites, the kind where nobody skipped the hover state, and this term it also means the agency's own one-page site, which is the current build.
+Clipency means owning the actual system: a creator marketplace plus the finance tracker running underneath it, both of which need to hold up at the exact moment someone's waiting on a payout. It's off the air at the moment, between builds. NexElite means brand-first sites, the kind where nobody skipped the hover state, and this term it also means the agency's own one-page site, which is the current build. Narva shipped and is live at narva.in.
 
 Ekam Finance is still my longest-running personal project, and honestly the longest-running fight I've had with `npm start` vs `npm run dev`. It picked up transfers, an AI coach layer on the reports page, and a Three.js landing journey this year. Alongside all of that, the semester's lab work lives here in public.
 
@@ -44,7 +44,7 @@ Ekam Finance is still my longest-running personal project, and honestly the long
 |---|---|---|---|
 | **[Ekam Finance](https://ekam-finance.vercel.app)** | personal finance, built INR first, not a US app with a rupee symbol taped on | Next.js 15, React 19, Supabase, Three.js | `IN THE AIR` |
 | **[NexElite](https://github.com/sbktckp/NexElite)** | the agency's own site, built by the guy who builds everyone else's | Next.js 16, React 19, GSAP, Lenis, Tailwind v4 | `FINAL APPROACH` |
-| **[Narva](https://narva.in)** | brand and web build for a health-forward company | Next.js, GSAP | `APPROACH` |
+| **[Narva](https://narva.in)** | brand and web build for a health-forward company | Next.js, GSAP | `LANDED` |
 
 <br>
 
@@ -95,7 +95,7 @@ Same reason people watch air traffic without holding a license. I find the syste
 They're closer than they look. Build a claim, put it through hostile questioning, ship only what survives that.
 
 **Do you ever land?**
-Working on it. Check the `IN THE AIR` column above.
+Sometimes. Narva just did. Check the `IN THE AIR` column for the rest.
 
 <br>
 
