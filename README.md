@@ -22,9 +22,9 @@
 
 Horizontal wrapped up a while back. Right now I'm CTO at Clipency and a web developer at NexElite, a creative media agency.
 
-Clipency means owning the actual system: a creator marketplace plus the finance tracker running underneath it, both of which need to hold up at the exact moment someone's waiting on a payout. NexElite means brand-first sites, the kind where nobody skipped the hover state.
+Clipency means owning the actual system: a creator marketplace plus the finance tracker running underneath it, both of which need to hold up at the exact moment someone's waiting on a payout. It's off the air at the moment, between builds. NexElite means brand-first sites, the kind where nobody skipped the hover state, and this term it also means the agency's own one-page site, which is the current build.
 
-Ekam Finance is still my longest-running personal project, and honestly the longest-running fight I've had with `npm start` vs `npm run dev`. Right now I'm also rebuilding NexElite's own site and shipping the web build for Narva (narva.in).
+Ekam Finance is still my longest-running personal project, and honestly the longest-running fight I've had with `npm start` vs `npm run dev`. It picked up transfers, an AI coach layer on the reports page, and a Three.js landing journey this year. Alongside all of that, the semester's lab work lives here in public.
 
 <br>
 
@@ -32,7 +32,7 @@ Ekam Finance is still my longest-running personal project, and honestly the long
 
 | callsign | role | status |
 |---|---|---|
-| **Clipency** | Chief Technology Officer | `IN THE AIR` |
+| **Clipency** | Chief Technology Officer | `ON THE GROUND` |
 | **NexElite** | Web Developer | `IN THE AIR` |
 | **Horizontal** | Full-Stack Intern | `LANDED` |
 
@@ -42,16 +42,27 @@ Ekam Finance is still my longest-running personal project, and honestly the long
 
 | project | what it actually is | stack | status |
 |---|---|---|---|
-| **[Ekam Finance](https://ekam-finance.vercel.app)** | personal finance, built INR first, not a US app with a rupee symbol taped on | Next.js 15, Supabase, TypeScript | `HOLDING PATTERN` |
+| **[Ekam Finance](https://ekam-finance.vercel.app)** | personal finance, built INR first, not a US app with a rupee symbol taped on | Next.js 15, React 19, Supabase, Three.js | `IN THE AIR` |
+| **[NexElite](https://github.com/sbktckp/NexElite)** | the agency's own site, built by the guy who builds everyone else's | Next.js 16, React 19, GSAP, Lenis, Tailwind v4 | `FINAL APPROACH` |
 | **[Narva](https://narva.in)** | brand and web build for a health-forward company | Next.js, GSAP | `APPROACH` |
-| **NexElite** | the agency's own site, built by the guy who builds everyone else's | Next.js, GSAP, Framer Motion, Lenis | `APPROACH` |
+
+<br>
+
+> **GROUND SCHOOL**
+
+Semester lab work, kept public so there's one place to point someone at a specific solution.
+
+| repo | course | what's in it |
+|---|---|---|
+| **[Design and Analysis of Algorithms](https://github.com/sbktckp/Design-and-Analysis-of-Algorithms)** | Algorithms Laboratory | ten lab days in C17, every program written twice: full, and short enough for a record book |
+| **[Computer Networks](https://github.com/sbktckp/Computer-Networks)** | Computer Networks Laboratory | endianness, TCP sockets, client server pairs, same full and compact split |
 
 <br>
 
 > **INSTRUMENTS**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,supabase,postgres,nodejs,vercel,tailwind,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,supabase,postgres,nodejs,vercel,tailwind,threejs,c,git&theme=dark" />
 </div>
 
 <br>
@@ -107,4 +118,4 @@ Working on it. Check the `IN THE AIR` column above.
 
 <p align="center"><b>CLEARED FOR CONTACT</b><br><i>Open to talking product, debate, or why your Supabase RLS policy is silently rejecting everything. It's usually the policy, not you.</i></p>
 
-<p align="right"><i>&mdash; S.B.P.</i></p>
+<p align="right"><i>S.B.P.</i></p>
