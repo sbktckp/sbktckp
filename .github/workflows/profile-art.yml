@@ -1,4 +1,4 @@
-name: generate profile art
+name: generate contribution snake
 
 on:
   schedule:
@@ -15,7 +15,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -23,19 +22,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: sbktckp
-
-      - name: fold 3d contribution graph into dist
-        run: |
-          mkdir -p dist/3d-contrib
-          cp profile-3d-contrib/*.svg dist/3d-contrib/ || true
-
-      # Everything above lands in dist/ and is pushed together so this job
-      # never partially wipes the output branch mid-run.
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

@@ -45,7 +45,7 @@ Three roles running at once. One degree finishing at IIT Madras while another ru
 
 **Cut to Infiltrix.** IT consultant. **Cut to Kacheri Diaries LLP.** Senior Community Manager, East India, since July 2025.
 
-**And Clipency.** *"Where viral content finds scale."* A creator marketplace with a finance tracker running underneath it, needing to hold up at the exact second someone's waiting on a payout. Parked between builds right now. Not dead. Planes get parked too.
+**And Clipency.** *"Where viral content finds scale."* A creator marketplace with a finance tracker running underneath it, needing to hold up at the exact second someone's waiting on a payout. Flew it as CTO, then handed in the wings in August 2026. That runway is closed now, not parked.
 
 Five shipped products. Seven roles held. Two degrees in progress, at the same time, on purpose. Ekam Finance remains the longest-running fight of my life against `npm start` versus `npm run dev`, and the semester lab work stays public so anyone can point straight at a specific solution instead of asking twice.
 
@@ -59,10 +59,10 @@ Five shipped products. Seven roles held. Two degrees in progress, at the same ti
 | **NexElite** | Web Developer | ongoing | `IN THE AIR` |
 | **Kacheri Diaries LLP** | Sr. Community Manager, East India | Jul 2025 | `IN THE AIR` |
 | **Infiltrix** | IT Consultant | Apr 2026 | `IN THE AIR` |
-| **Clipency** | Chief Technology Officer | ongoing | `ON THE GROUND` |
 | **Horizontal Digital** | Full-Stack Intern, DX | Apr to Jul 2026 | `LANDED` |
 | **KIIT Saathi** | Growth Manager | Oct 2025 to Mar 2026 | `LANDED` |
 | **USHM Essence** | Chief Marketing Officer | Nov 2024 to Jun 2025 | `LANDED` |
+| **Clipency** | Chief Technology Officer | closed Aug 2026 | `LANDED` |
 
 <br>
 
@@ -75,8 +75,8 @@ Every screenwriter learns this first. If you cannot pitch it in one line, you do
 | **Quero** | The computer-based testing platform built for India's toughest entrance exams | Next.js, React, Supabase, Three.js/R3F | `IN THE AIR` |
 | **[Ekam Finance](https://ekam-finance.vercel.app)** | Personal finance, made legible | Next.js 15, React 19, Supabase, Three.js | `IN THE AIR` |
 | **[NexElite](https://github.com/sbktckp/NexElite)** | An agency site built to the standard real clients deserve | Next.js 16, React 19, GSAP, Lenis, Tailwind v4 | `FINAL APPROACH` |
-| **Clipency** | Where viral content finds scale | Next.js, Supabase | `ON THE GROUND` |
 | **[Narva](https://narva.in)** | A digital storefront for a doctor-led sleep wellness brand | Next.js, GSAP | `LANDED` |
+| **Clipency** | Where viral content finds scale | Next.js, Supabase | `LANDED` |
 
 <br>
 
@@ -127,7 +127,7 @@ flowchart LR
 <details>
 <summary><b>Weren't you CTO at Clipency last year, and now it's Quero?</b></summary>
 <br>
-Clipency is parked, not crashed. Quero is the runway getting the fuel right now: an actual exam-prep platform students in tier-2 and tier-3 India can trust to hold up on exam day, not a demo that only works for the person who built it.
+Was, past tense. Left Clipency in August 2026, no drama, the runway just closed. Quero is where the fuel is going now: an actual exam-prep platform students in tier-2 and tier-3 India can trust to hold up on exam day, not a demo that only works for the person who built it.
 </details>
 
 <details>
@@ -173,13 +173,7 @@ Sometimes. Narva did. Check the <code>LANDED</code> rows for the rest. Everythin
 
 <br><br>
 
-<i>a year of commits, extruded into a runway you can actually look down at</i>
-<br>
-<img src="https://raw.githubusercontent.com/sbktckp/sbktckp/output/3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="90%" />
-
-<br><br>
-
-<i>the same year, flattened back into something that eats</i>
+<i>a year of commits, refusing to sit still</i>
 <br>
 <img src="https://raw.githubusercontent.com/sbktckp/sbktckp/output/github-snake-dark.svg" alt="contribution snake" />
 
