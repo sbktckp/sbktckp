@@ -13,11 +13,6 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    # GitHub force-runs Node16/20-targeted actions on the Node24 runtime now,
-    # which breaks some older actions outright. This is the documented
-    # escape hatch, scoped to this job only.
-    env:
-      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
     steps:
       - uses: actions/checkout@v4
 
@@ -29,26 +24,27 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: generate 3d contribution graph
-        id: contrib3d
+      - name: generate isometric 3d contribution calendar
+        id: isocalendar
         continue-on-error: true
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: sbktckp
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/isocalendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
-      - name: fold 3d contribution graph into dist, if it built
+      - name: report whether the 3d calendar built
         run: |
-          mkdir -p dist/3d-contrib
-          if compgen -G "profile-3d-contrib/*.svg" > /dev/null; then
-            cp profile-3d-contrib/*.svg dist/3d-contrib/
-            echo "3d contrib graph included"
+          if [ -f "dist/isocalendar.svg" ]; then
+            echo "isocalendar built"
           else
-            echo "::warning::3d contribution graph step did not produce svgs, shipping snake only"
+            echo "::warning::isocalendar plugin did not produce an svg, shipping snake only"
           fi
 
       # Everything above lands in dist/ and is pushed together, so a failed
-      # 3d-contrib step never blocks the snake from shipping.
+      # isocalendar step never blocks the snake from shipping.
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
