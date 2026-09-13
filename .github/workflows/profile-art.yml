@@ -1,4 +1,4 @@
-name: generate profile art
+name: generate contribution snake
 
 on:
   schedule:
@@ -15,7 +15,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -23,28 +22,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: generate isometric 3d contribution calendar
-        id: isocalendar
-        continue-on-error: true
-        uses: lowlighter/metrics@latest
-        with:
-          filename: dist/isocalendar.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-      - name: report whether the 3d calendar built
-        run: |
-          if [ -f "dist/isocalendar.svg" ]; then
-            echo "isocalendar built"
-          else
-            echo "::warning::isocalendar plugin did not produce an svg, shipping snake only"
-          fi
-
-      # Everything above lands in dist/ and is pushed together, so a failed
-      # isocalendar step never blocks the snake from shipping.
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
