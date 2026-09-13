@@ -175,7 +175,7 @@ Sometimes. Narva did. Check the <code>LANDED</code> rows for the rest. Everythin
 
 <i>a year of commits, extruded into a runway you can actually look down at</i>
 <br>
-<img src="https://raw.githubusercontent.com/sbktckp/sbktckp/output/3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="90%" />
+<img src="https://raw.githubusercontent.com/sbktckp/sbktckp/output/3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="90%" />
 
 <br><br>
 
