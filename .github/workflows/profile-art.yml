@@ -36,7 +36,10 @@ jobs:
 
       - name: fold 3d contribution graph into dist, if it built
         run: |
-          mkdir -p dist/3d-contrib
+          # Platane/snk runs as a Docker container action and leaves dist/
+          # root-owned, so a plain mkdir here fails with Permission denied.
+          sudo mkdir -p dist/3d-contrib
+          sudo chmod 777 dist/3d-contrib
           if compgen -G "profile-3d-contrib/*.svg" > /dev/null; then
             cp profile-3d-contrib/*.svg dist/3d-contrib/
             echo "3d contrib graph included"
