@@ -173,7 +173,13 @@ Sometimes. Narva did. Check the <code>LANDED</code> rows for the rest. Everythin
 
 <br><br>
 
-<i>a year of commits, refusing to sit still</i>
+<i>a year of commits, extruded into a runway you can actually look down at</i>
+<br>
+<img src="https://raw.githubusercontent.com/sbktckp/sbktckp/output/3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="90%" />
+
+<br><br>
+
+<i>the same year, flattened back into something that eats</i>
 <br>
 <img src="https://raw.githubusercontent.com/sbktckp/sbktckp/output/github-snake-dark.svg" alt="contribution snake" />
 
