@@ -3,18 +3,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=SMIT%20BHARAT%20PATIL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=engineer%20%C2%B7%20developer%20%C2%B7%20entrepreneur%20%C2%B7%20scientist%2C%20by%20training%20and%20by%20disposition&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://smit.website">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Co-Founder+%26+CTO+%40+Quero;The+testing+platform+built+for+India%27s+toughest+exams;Full-Stack+Developer+%C2%B7+India;Ask+me+about+Row-Level+Security+bugs;Currently+running+two+degrees+at+once" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Founder+%26+CEO+%40+Examlytics;Director+of+Growth+%26+Technology+%40+Verve+Run+Club;The+testing+platform+built+for+India%27s+toughest+exams;Full-Stack+Developer+%C2%B7+India;Ask+me+about+Row-Level+Security+bugs;Currently+running+two+degrees+at+once" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Co--Founder%20%26%20CTO-Quero-3ECF8E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Founder%20%26%20CEO-Examlytics-3ECF8E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Director%20of%20Growth%20%26%20Technology-Verve%20Run%20Club-B23226?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web%20Developer-NexElite-7C5CFC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IT%20Consultant-Infiltrix-F2994A?style=for-the-badge" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Shipped-5%2B%20products-16a34a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Held-7%2B%20roles-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Shipped-6%2B%20products-16a34a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Held-8%2B%20roles-2563eb?style=flat-square" />
   <img src="https://img.shields.io/badge/Running-2%2B%20degrees-9333ea?style=flat-square" />
 </p>
 
@@ -37,17 +38,19 @@
 
 ### INT. TOWER, PRESENT DAY
 
-Three roles running at once. One degree finishing at IIT Madras while another runs concurrently at KIIT. The console reads clear on all of it.
+Five roles running at once. One degree finishing at IIT Madras while another runs concurrently at KIIT. The console reads clear on all of it.
 
-**Co-Founder and Chief Technology Officer at [Quero](https://smit.website).** The logline: *the computer-based testing platform built for India's toughest entrance exams.* NEET, JEE, CUET, the state CETs, GATE, UPSC CSE, all of it. NTA-style testing that behaves like the real exam, not a rehearsal for it. Retests generated from a student's own mistake history instead of a random question bank. Institute dashboards built for people running six branches, not one classroom. Offline-first, because the connectivity at most exam centers in this country is a plot twist nobody asked for. This repository's sibling, the internal ops portal, is where the daily build log actually lives.
+**Founder and CEO of [Examlytics](https://examlytics.in).** The logline: *the computer-based testing platform built for India's toughest entrance exams.* NEET, JEE, CUET, the state CETs, GATE, UPSC CSE, all of it. NTA-style testing that behaves like the real exam, not a rehearsal for it. Retests generated from a student's own mistake history instead of a random question bank. Institute dashboards built for people running six branches, not one classroom. Offline-first, because the connectivity at most exam centers in this country is a plot twist nobody asked for. This repository's sibling, the internal ops portal, is where the daily build log actually lives.
+
+**Cut to Verve.** Director of Growth and Technology at [Verve Run Club](https://ververun.club), a running club in Bhubaneswar. Built the engine end to end: registration, Razorpay payments, QR tickets, a phone-based gate scanner that starts and stops each runner's clock, live results, and price tiers that step up on their own as seats fill. The first paid run brought in about ₹10,000 where a free run used to cost the club about ₹2,000. The write-ups: [how the profit was made](https://smit.website/blog/free-run-club-to-paid-event), [how the site was built in two nights](https://smit.website/blog/build-run-club-website-nextjs-supabase), and [how the price tiers survive 200 people clicking at once](https://smit.website/blog/ticket-price-tiers-seat-holds-postgres).
 
 **Cut to NexElite.** Web developer, still the kind of build where nobody skipped the hover state. The agency's own site is *"built to the standard real clients deserve,"* which is a harder bar to clear when you're the client.
 
-**Cut to Infiltrix.** IT consultant. **Cut to Kacheri Diaries LLP.** Senior Community Manager, East India, since July 2025.
+**Cut to Infiltrix.** IT consultant. **Cut to Kacheri Diaries LLP.** Senior Community Manager, East India, since November 2025.
 
 **And Clipency.** *"Where viral content finds scale."* A creator marketplace with a finance tracker running underneath it, needing to hold up at the exact second someone's waiting on a payout. Flew it as CTO, then handed in the wings in August 2026. That runway is closed now, not parked.
 
-Five shipped products. Seven roles held. Two degrees in progress, at the same time, on purpose. Ekam Finance remains the longest-running fight of my life against `npm start` versus `npm run dev`, and the semester lab work stays public so anyone can point straight at a specific solution instead of asking twice.
+Six shipped products. Eight roles held. Two degrees in progress, at the same time, on purpose. Ekam Finance remains the longest-running fight of my life against `npm start` versus `npm run dev`, and the semester lab work stays public so anyone can point straight at a specific solution instead of asking twice.
 
 <br>
 
@@ -55,9 +58,10 @@ Five shipped products. Seven roles held. Two degrees in progress, at the same ti
 
 | callsign | role | since | status |
 |---|---|---|---|
-| **Quero** | Co-Founder and Chief Technology Officer | Aug 2026 | `IN THE AIR` |
+| **[Examlytics](https://examlytics.in)** | Founder and CEO | Jul 2026 | `IN THE AIR` |
+| **[Verve Run Club](https://ververun.club)** | Director of Growth and Technology | Sep 2026 | `IN THE AIR` |
 | **NexElite** | Web Developer | ongoing | `IN THE AIR` |
-| **Kacheri Diaries LLP** | Sr. Community Manager, East India | Jul 2025 | `IN THE AIR` |
+| **Kacheri Diaries LLP** | Sr. Community Manager, East India | Nov 2025 | `IN THE AIR` |
 | **Infiltrix** | IT Consultant | Apr 2026 | `IN THE AIR` |
 | **Horizontal Digital** | Full-Stack Intern, DX | Apr to Jul 2026 | `LANDED` |
 | **KIIT Saathi** | Growth Manager | Oct 2025 to Mar 2026 | `LANDED` |
@@ -72,7 +76,8 @@ Every screenwriter learns this first. If you cannot pitch it in one line, you do
 
 | project | logline | stack | status |
 |---|---|---|---|
-| **Quero** | The computer-based testing platform built for India's toughest entrance exams | Next.js, React, Supabase, Three.js/R3F | `IN THE AIR` |
+| **[Examlytics](https://examlytics.in)** | The computer-based testing platform built for India's toughest entrance exams | Next.js, React, Supabase, Three.js/R3F | `IN THE AIR` |
+| **[Verve Run Club](https://ververun.club)** | The website, ticketing and live results behind a Bhubaneswar running club | Next.js, Supabase, Razorpay, TypeScript | `IN THE AIR` |
 | **[Ekam Finance](https://ekam-finance.vercel.app)** | Personal finance, made legible | Next.js 15, React 19, Supabase, Three.js | `IN THE AIR` |
 | **[NexElite](https://github.com/sbktckp/NexElite)** | An agency site built to the standard real clients deserve | Next.js 16, React 19, GSAP, Lenis, Tailwind v4 | `FINAL APPROACH` |
 | **[Narva](https://narva.in)** | A digital storefront for a doctor-led sleep wellness brand | Next.js, GSAP | `LANDED` |
@@ -125,9 +130,9 @@ flowchart LR
 ## RADIO CHECK
 
 <details>
-<summary><b>Weren't you CTO at Clipency last year, and now it's Quero?</b></summary>
+<summary><b>Weren't you CTO at Clipency last year, and now it's Examlytics?</b></summary>
 <br>
-Was, past tense. Left Clipency in August 2026, no drama, the runway just closed. Quero is where the fuel is going now: an actual exam-prep platform students in tier-2 and tier-3 India can trust to hold up on exam day, not a demo that only works for the person who built it.
+Was, past tense. Left Clipency in August 2026, no drama, the runway just closed. Examlytics is where the fuel is going now: an actual exam-prep platform students in tier-2 and tier-3 India can trust to hold up on exam day, not a demo that only works for the person who built it. I founded it and run it as CEO.
 </details>
 
 <details>
@@ -137,13 +142,13 @@ KIIT teaches the engineering. IIT Madras teaches the math the engineering quietl
 </details>
 
 <details>
-<summary><b>Five products, seven roles, two degrees. That is not a typo?</b></summary>
+<summary><b>Six products, eight roles, two degrees. That is not a typo?</b></summary>
 <br>
 It is not. It is also not a flex. It is what happens when you refuse to let any one runway close before the next one opens. Some of those rows say `LANDED` for a reason.
 </details>
 
 <details>
-<summary><b>A fintech-turned-edtech CTO who also builds brand sites for a media agency. Pick one runway.</b></summary>
+<summary><b>A fintech-turned-edtech founder who also builds brand sites for a media agency. Pick one runway.</b></summary>
 <br>
 Same runway, different tail numbers. Money, exams, and brand promises all fail the same way. Quiet first, then all at once. Working across all of them just means I catch the quiet part earlier.
 </details>
@@ -151,7 +156,13 @@ Same runway, different tail numbers. Money, exams, and brand promises all fail t
 <details>
 <summary><b>You track UPSC cutoffs without appearing for the exam.</b></summary>
 <br>
-Same reason people watch air traffic without holding a license. The system interests me more than the seat does. It also happens to be exactly the system Quero now exists to help people beat.
+Same reason people watch air traffic without holding a license. The system interests me more than the seat does. It also happens to be exactly the system Examlytics now exists to help people beat.
+</details>
+
+<details>
+<summary><b>A run club? What does that have to do with exam-prep?</b></summary>
+<br>
+I was first brought in as a consultant to help Verve Run Club plan and monetise its runs, and now I am its Director of Growth and Technology. The skills carry over: payments that must never lose a ticket, a database that holds up when hundreds of people click at once, and growth that comes from making the boring parts run themselves. The build notes live on <a href="https://smit.website/blog">smit.website/blog</a>.
 </details>
 
 <details>
