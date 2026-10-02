@@ -88,7 +88,7 @@ Every screenwriter learns this first. If you cannot pitch it in one line, you do
 | **[Ekam Finance](https://ekam-finance.vercel.app)** | Personal finance, made legible | Next.js 15, React 19, Supabase, Three.js | `IN THE AIR` |
 | **[NEXelite Media](https://github.com/sbktckp/NexElite)** | An agency site built to the standard real clients deserve | Next.js 16, React 19, GSAP, Lenis, Tailwind v4 | `FINAL APPROACH` |
 | **[Narva](https://narva.in)** | A digital storefront for a doctor-led sleep wellness brand | Next.js, GSAP | `LANDED` |
-| **Clipency** | Where viral content finds scale | Next.js, Supabase | `LANDED` |
+| **[Clipency](https://clipency.in)** | Where viral content finds scale | Next.js, Supabase | `LANDED` |
 
 <br>
 
