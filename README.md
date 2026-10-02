@@ -48,7 +48,7 @@ Seven roles running at once. One degree finishing at IIT Madras while another ru
 
 **Cut to NEXelite Media.** Full Stack Engineer, still the kind of build where nobody skipped the hover state. The agency's own site is *"built to the standard real clients deserve,"* which is a harder bar to clear when you're the client.
 
-**Cut to Kronicle DebSoc and Kamakshi & HeForShe.** Tech Lead at both since October 2026, after a stretch on the Kronicle Tech Team and as a Kamakshi public speaker. Hands-on technical leadership, which mostly means being the person who gets asked why the form broke.
+**Cut to [Kronicle DebSoc](https://www.instagram.com/kronicle_official/) and [Kamakshi & HeForShe](https://www.instagram.com/kamakshi.heforshe.kiit/).** Tech Lead at both since October 2026, after a stretch on the Kronicle Tech Team and as a Kamakshi public speaker. Hands-on technical leadership, which mostly means being the person who gets asked why the form broke.
 
 **Cut to Infiltrix.** Information Technology Consultant. **Cut to Kacheri Diaries LLP.** Senior Community Manager, since November 2025.
 
@@ -66,8 +66,8 @@ Six shipped products. Twelve roles held. Two degrees in progress, at the same ti
 | **[Verve Run Club](https://ververun.club)** | Director of Growth & Technology | Sep 2026 | `IN THE AIR` |
 | **NEXelite Media** | Full Stack Engineer | Jul 2026 | `IN THE AIR` |
 | **Kacheri Diaries LLP** | Senior Community Manager | Nov 2025 | `IN THE AIR` |
-| **Kronicle DebSoc** | Tech Lead | Oct 2026 | `IN THE AIR` |
-| **Kamakshi & HeForShe** | Tech Lead | Oct 2026 | `IN THE AIR` |
+| **[Kronicle DebSoc](https://www.instagram.com/kronicle_official/)** | Tech Lead | Oct 2026 | `IN THE AIR` |
+| **[Kamakshi & HeForShe](https://www.instagram.com/kamakshi.heforshe.kiit/)** | Tech Lead | Oct 2026 | `IN THE AIR` |
 | **Infiltrix** | Information Technology Consultant | Apr 2026 | `IN THE AIR` |
 | **Clipency** | Chief Technology Officer | Mar 2026 to Aug 2026 | `LANDED` |
 | **Horizontal Digital** | DX Intern | Apr 2026 to Jul 2026 | `LANDED` |
