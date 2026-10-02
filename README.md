@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=SMIT%20BHARAT%20PATIL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=engineer%20%C2%B7%20developer%20%C2%B7%20entrepreneur%20%C2%B7%20scientist%2C%20by%20training%20and%20by%20disposition&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://smit.website">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%40+NEXelite+Media;Founder+%26+CEO+%40+Examlytics;Director+of+Growth+%26+Technology+%40+Verve+Run+Club;Tech+Lead+%40+Kronicle+DebSoc+%26+Kamakshi+%26+HeForShe;The+testing+platform+built+for+India%27s+toughest+exams;Ask+me+about+Row-Level+Security+bugs;Currently+running+two+degrees+at+once" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Founder+%26+CEO+%40+Examlytics;Director+of+Growth+%26+Technology+%40+Verve+Run+Club;Full+Stack+Engineer+%40+NEXelite+Media;Tech+Lead+%40+Kronicle+DebSoc+%26+Kamakshi+%26+HeForShe;The+testing+platform+built+for+India%27s+toughest+exams;Ask+me+about+Row-Level+Security+bugs;Currently+running+two+degrees+at+once" alt="Typing SVG" />
 </a>
 
 <p>
